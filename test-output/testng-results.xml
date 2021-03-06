@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9408" started-at="2021-03-06T09:24:48Z" finished-at="2021-03-06T09:24:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9408" started-at="2021-03-06T09:24:48Z" finished-at="2021-03-06T09:24:58Z">
+      <class name="com.seleniumpom.regressions.TC_01_LaunchBrowser">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.seleniumpom.regressions.TC_01_LaunchBrowser@735b5592]" name="initializeBrowser" is-config="true" duration-ms="9371" started-at="2021-03-06T14:54:48Z" finished-at="2021-03-06T14:54:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.seleniumpom.regressions.TC_01_LaunchBrowser@735b5592]" name="launch" duration-ms="3" started-at="2021-03-06T14:54:58Z" finished-at="2021-03-06T14:54:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- com.seleniumpom.regressions.TC_01_LaunchBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
